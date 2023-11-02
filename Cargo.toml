@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "features/from_row",
+  "features/tests",
+  "pg_sugar"
+]
